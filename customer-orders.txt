@@ -328,3 +328,9 @@
 996|Susan Andrews|7|7.00
 997|Teresa Henry|6|6.00
 998|Rose Vasquez|3|2.19
+999|Joe|5|5.00
+1000|Frank|6|6.00
+1001|Sally|3|3.00
+1002|Sean|9|9.50
+1003|David|4|4.00
+1004|Ashley|3|2.00
